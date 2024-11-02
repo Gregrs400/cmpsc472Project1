@@ -2,7 +2,7 @@
 
 ## Description of the project
 
-    This project revolves around the problem of reading words from a file, which can be a time consuming process. The goal is to develop a program to read files from an online repository from the Calgary Corpus. 7 files are loaded and read by 7 child processes, allowing multiple processes to run concurrently, each having 3 threads to read each file, leading to faster reading times. This gives a great review of the concepts covered up to this point in the course, showing an application which can be very beneficial in solidifying those concepts and allowing students greater ease in addressing similar problems further on in the course, as well as after the course has finished. 
+    This project revolves around the problem of reading words from a file, which can be a time consuming process. The goal is to develop a program to read files from an online repository from the Calgary Corpus. \ 7 files are loaded and read by 7 child processes, allowing multiple processes to run concurrently, each having 3 threads to read each file, leading to faster reading times. \ This gives a great review of the concepts covered up to this point in the course, showing an application which can be very beneficial in solidifying those concepts and allowing students greater ease in addressing similar problems further on in the course, as well as after the course has finished. 
 
 ## Structure of the code
 
